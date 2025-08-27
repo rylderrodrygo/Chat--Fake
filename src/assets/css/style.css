@@ -165,12 +165,24 @@ width: 100%;
     font-family: 'Inter', sans-serif;
     font-size: 16px;
     max-width: 400px;
+    gap: 5px;
 }
 
 .other{
     background-color:  white;
 }
 
-.you{
-    background-color: green;
+.infos--message{
+    gap: 5px;
 }
+
+.you{
+    background-color: #78e378;
+}
+
+.div--message{
+    gap: 10px;
+}
+
+
+
