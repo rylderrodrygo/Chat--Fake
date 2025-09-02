@@ -145,8 +145,8 @@ width: 100%;
 
 .div--container--messages{
     padding-bottom: 20px;
-    padding-left: 200px;
-    padding-right: 40px;
+    padding-left: 150px;
+    padding-right: 150px;
 }
 
 .date--chat{
@@ -184,5 +184,23 @@ width: 100%;
     gap: 10px;
 }
 
+.div--text--field{
+    margin-top: 30px;
+    height: 56px;
+    border-radius: 10px;
+    background-color: white;
+    width: 100%;
+    
+    
+}
 
-
+.text--field{
+    width: 100%;
+    border: 0;
+    outline: 0;
+    font-family: 'Inter' sans-serif;
+    font-size: 16px;
+}
+.cursor--pointer{
+    cursor: pointer;
+}
